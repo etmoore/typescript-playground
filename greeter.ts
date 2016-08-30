@@ -1,3 +1,6 @@
+// following the typescript quick-start tutorial:
+// https://www.typescriptlang.org/docs/tutorial.html
+
 interface Person {
   firstName: string;
   lastName: string;
